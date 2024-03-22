@@ -1,4 +1,4 @@
-SELECT * FROM world.city;
+
 SHOW Databases;
 CREATE DATABASE nov_27;
 use nov_27;
